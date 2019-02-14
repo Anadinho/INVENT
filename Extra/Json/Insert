@@ -1,0 +1,15 @@
+         Id { get; set; }
+         Nome { get; set; }
+         Data_Cadastro { get; set; }
+         Cpf_Cnpj { get; set; }
+         Data_Nascimento { get; set; }
+         Tipo { get; set; }
+         Telefone { get; set; }
+         Email { get; set; }
+         Cep { get; set; }
+         Logradouro { get; set; }
+         Numero { get; set; }
+         Bairro { get; set; }
+         Complemento { get; set; }
+         Cidade { get; set; }
+         Uf { get; set; }

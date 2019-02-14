@@ -1,0 +1,17 @@
+ {
+
+         "Nome" :" Teste",
+         "Data_Cadastro" :"24/05/2018",
+         "Cpf_Cnpj" :"05036487109",
+         "Data_Nascimento" :"22/05/1987",
+         "Tipo" :"F",
+         "Telefone" :"32928123",
+         "Email" :"GABRIELANADINHO@GMAIL.COM",
+         "Cep" :"3066666666",
+         "Logradouro" :"rUA TESTE",
+         "Numero" :"123",
+         "Bairro" :"Teste",
+         "Complemento" :"apto 100",
+         "Cidade" :"GOIANIA",
+         "Uf" :"GO",
+ }

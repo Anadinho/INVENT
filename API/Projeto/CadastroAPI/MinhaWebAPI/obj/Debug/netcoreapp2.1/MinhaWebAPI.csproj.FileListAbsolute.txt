@@ -1,0 +1,56 @@
+C:\Users\xx\Desktop\INVENT SOFTWARE\Projeto\MinhaWebAPI\MinhaWebAPI\bin\Debug\netcoreapp2.1\MinhaWebAPI.deps.json
+C:\Users\xx\Desktop\INVENT SOFTWARE\Projeto\MinhaWebAPI\MinhaWebAPI\bin\Debug\netcoreapp2.1\MinhaWebAPI.runtimeconfig.json
+C:\Users\xx\Desktop\INVENT SOFTWARE\Projeto\MinhaWebAPI\MinhaWebAPI\bin\Debug\netcoreapp2.1\MinhaWebAPI.runtimeconfig.dev.json
+C:\Users\xx\Desktop\INVENT SOFTWARE\Projeto\MinhaWebAPI\MinhaWebAPI\bin\Debug\netcoreapp2.1\MinhaWebAPI.dll
+C:\Users\xx\Desktop\INVENT SOFTWARE\Projeto\MinhaWebAPI\MinhaWebAPI\obj\Debug\netcoreapp2.1\MinhaWebAPI.csprojAssemblyReference.cache
+C:\Users\xx\Desktop\INVENT SOFTWARE\Projeto\MinhaWebAPI\MinhaWebAPI\obj\Debug\netcoreapp2.1\MinhaWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\xx\Desktop\INVENT SOFTWARE\Projeto\MinhaWebAPI\MinhaWebAPI\obj\Debug\netcoreapp2.1\MinhaWebAPI.RazorAssemblyInfo.cache
+C:\Users\xx\Desktop\INVENT SOFTWARE\Projeto\MinhaWebAPI\MinhaWebAPI\obj\Debug\netcoreapp2.1\MinhaWebAPI.RazorAssemblyInfo.cs
+C:\Users\xx\Desktop\INVENT SOFTWARE\Projeto\MinhaWebAPI\MinhaWebAPI\obj\Debug\netcoreapp2.1\MinhaWebAPI.AssemblyInfoInputs.cache
+C:\Users\xx\Desktop\INVENT SOFTWARE\Projeto\MinhaWebAPI\MinhaWebAPI\obj\Debug\netcoreapp2.1\MinhaWebAPI.AssemblyInfo.cs
+C:\Users\xx\Desktop\INVENT SOFTWARE\Projeto\MinhaWebAPI\MinhaWebAPI\obj\Debug\netcoreapp2.1\MinhaWebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\xx\Desktop\INVENT SOFTWARE\Projeto\MinhaWebAPI\MinhaWebAPI\bin\Debug\netcoreapp2.1\MinhaWebAPI.pdb
+C:\Users\xx\Desktop\INVENT SOFTWARE\Projeto\MinhaWebAPI\MinhaWebAPI\obj\Debug\netcoreapp2.1\MinhaWebAPI.dll
+C:\Users\xx\Desktop\INVENT SOFTWARE\Projeto\MinhaWebAPI\MinhaWebAPI\obj\Debug\netcoreapp2.1\MinhaWebAPI.pdb
+C:\Users\Anadinho\Documents\C++\Invent\API\INVENT SOFTWARE\Projeto\MinhaWebAPI\MinhaWebAPI\bin\Debug\netcoreapp2.1\MinhaWebAPI.deps.json
+C:\Users\Anadinho\Documents\C++\Invent\API\INVENT SOFTWARE\Projeto\MinhaWebAPI\MinhaWebAPI\bin\Debug\netcoreapp2.1\MinhaWebAPI.runtimeconfig.json
+C:\Users\Anadinho\Documents\C++\Invent\API\INVENT SOFTWARE\Projeto\MinhaWebAPI\MinhaWebAPI\bin\Debug\netcoreapp2.1\MinhaWebAPI.runtimeconfig.dev.json
+C:\Users\Anadinho\Documents\C++\Invent\API\INVENT SOFTWARE\Projeto\MinhaWebAPI\MinhaWebAPI\bin\Debug\netcoreapp2.1\MinhaWebAPI.dll
+C:\Users\Anadinho\Documents\C++\Invent\API\INVENT SOFTWARE\Projeto\MinhaWebAPI\MinhaWebAPI\bin\Debug\netcoreapp2.1\MinhaWebAPI.pdb
+C:\Users\Anadinho\Documents\C++\Invent\API\INVENT SOFTWARE\Projeto\MinhaWebAPI\MinhaWebAPI\obj\Debug\netcoreapp2.1\MinhaWebAPI.csprojAssemblyReference.cache
+C:\Users\Anadinho\Documents\C++\Invent\API\INVENT SOFTWARE\Projeto\MinhaWebAPI\MinhaWebAPI\obj\Debug\netcoreapp2.1\MinhaWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Anadinho\Documents\C++\Invent\API\INVENT SOFTWARE\Projeto\MinhaWebAPI\MinhaWebAPI\obj\Debug\netcoreapp2.1\MinhaWebAPI.RazorAssemblyInfo.cache
+C:\Users\Anadinho\Documents\C++\Invent\API\INVENT SOFTWARE\Projeto\MinhaWebAPI\MinhaWebAPI\obj\Debug\netcoreapp2.1\MinhaWebAPI.RazorAssemblyInfo.cs
+C:\Users\Anadinho\Documents\C++\Invent\API\INVENT SOFTWARE\Projeto\MinhaWebAPI\MinhaWebAPI\obj\Debug\netcoreapp2.1\MinhaWebAPI.AssemblyInfoInputs.cache
+C:\Users\Anadinho\Documents\C++\Invent\API\INVENT SOFTWARE\Projeto\MinhaWebAPI\MinhaWebAPI\obj\Debug\netcoreapp2.1\MinhaWebAPI.AssemblyInfo.cs
+C:\Users\Anadinho\Documents\C++\Invent\API\INVENT SOFTWARE\Projeto\MinhaWebAPI\MinhaWebAPI\obj\Debug\netcoreapp2.1\MinhaWebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Anadinho\Documents\C++\Invent\API\INVENT SOFTWARE\Projeto\MinhaWebAPI\MinhaWebAPI\obj\Debug\netcoreapp2.1\MinhaWebAPI.dll
+C:\Users\Anadinho\Documents\C++\Invent\API\INVENT SOFTWARE\Projeto\MinhaWebAPI\MinhaWebAPI\obj\Debug\netcoreapp2.1\MinhaWebAPI.pdb
+C:\Users\Anadinho\Documents\C++\Invent\API\INVENT SOFTWARE\Projeto\CadastroAPI\MinhaWebAPI\bin\Debug\netcoreapp2.1\MinhaWebAPI.deps.json
+C:\Users\Anadinho\Documents\C++\Invent\API\INVENT SOFTWARE\Projeto\CadastroAPI\MinhaWebAPI\bin\Debug\netcoreapp2.1\MinhaWebAPI.runtimeconfig.json
+C:\Users\Anadinho\Documents\C++\Invent\API\INVENT SOFTWARE\Projeto\CadastroAPI\MinhaWebAPI\bin\Debug\netcoreapp2.1\MinhaWebAPI.runtimeconfig.dev.json
+C:\Users\Anadinho\Documents\C++\Invent\API\INVENT SOFTWARE\Projeto\CadastroAPI\MinhaWebAPI\bin\Debug\netcoreapp2.1\MinhaWebAPI.dll
+C:\Users\Anadinho\Documents\C++\Invent\API\INVENT SOFTWARE\Projeto\CadastroAPI\MinhaWebAPI\bin\Debug\netcoreapp2.1\MinhaWebAPI.pdb
+C:\Users\Anadinho\Documents\C++\Invent\API\INVENT SOFTWARE\Projeto\CadastroAPI\MinhaWebAPI\obj\Debug\netcoreapp2.1\MinhaWebAPI.csprojAssemblyReference.cache
+C:\Users\Anadinho\Documents\C++\Invent\API\INVENT SOFTWARE\Projeto\CadastroAPI\MinhaWebAPI\obj\Debug\netcoreapp2.1\MinhaWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Anadinho\Documents\C++\Invent\API\INVENT SOFTWARE\Projeto\CadastroAPI\MinhaWebAPI\obj\Debug\netcoreapp2.1\MinhaWebAPI.RazorAssemblyInfo.cache
+C:\Users\Anadinho\Documents\C++\Invent\API\INVENT SOFTWARE\Projeto\CadastroAPI\MinhaWebAPI\obj\Debug\netcoreapp2.1\MinhaWebAPI.RazorAssemblyInfo.cs
+C:\Users\Anadinho\Documents\C++\Invent\API\INVENT SOFTWARE\Projeto\CadastroAPI\MinhaWebAPI\obj\Debug\netcoreapp2.1\MinhaWebAPI.AssemblyInfoInputs.cache
+C:\Users\Anadinho\Documents\C++\Invent\API\INVENT SOFTWARE\Projeto\CadastroAPI\MinhaWebAPI\obj\Debug\netcoreapp2.1\MinhaWebAPI.AssemblyInfo.cs
+C:\Users\Anadinho\Documents\C++\Invent\API\INVENT SOFTWARE\Projeto\CadastroAPI\MinhaWebAPI\obj\Debug\netcoreapp2.1\MinhaWebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Anadinho\Documents\C++\Invent\API\INVENT SOFTWARE\Projeto\CadastroAPI\MinhaWebAPI\obj\Debug\netcoreapp2.1\MinhaWebAPI.dll
+C:\Users\Anadinho\Documents\C++\Invent\API\INVENT SOFTWARE\Projeto\CadastroAPI\MinhaWebAPI\obj\Debug\netcoreapp2.1\MinhaWebAPI.pdb
+C:\Users\Anadinho\Documents\C++\INVENT\API\Projeto\CadastroAPI\MinhaWebAPI\obj\Debug\netcoreapp2.1\MinhaWebAPI.dll
+C:\Users\Anadinho\Documents\C++\INVENT\API\Projeto\CadastroAPI\MinhaWebAPI\obj\Debug\netcoreapp2.1\MinhaWebAPI.pdb
+C:\Users\Anadinho\Documents\C++\INVENT\API\Projeto\CadastroAPI\MinhaWebAPI\bin\Debug\netcoreapp2.1\MinhaWebAPI.deps.json
+C:\Users\Anadinho\Documents\C++\INVENT\API\Projeto\CadastroAPI\MinhaWebAPI\bin\Debug\netcoreapp2.1\MinhaWebAPI.runtimeconfig.json
+C:\Users\Anadinho\Documents\C++\INVENT\API\Projeto\CadastroAPI\MinhaWebAPI\bin\Debug\netcoreapp2.1\MinhaWebAPI.runtimeconfig.dev.json
+C:\Users\Anadinho\Documents\C++\INVENT\API\Projeto\CadastroAPI\MinhaWebAPI\bin\Debug\netcoreapp2.1\MinhaWebAPI.dll
+C:\Users\Anadinho\Documents\C++\INVENT\API\Projeto\CadastroAPI\MinhaWebAPI\bin\Debug\netcoreapp2.1\MinhaWebAPI.pdb
+C:\Users\Anadinho\Documents\C++\INVENT\API\Projeto\CadastroAPI\MinhaWebAPI\obj\Debug\netcoreapp2.1\MinhaWebAPI.csprojAssemblyReference.cache
+C:\Users\Anadinho\Documents\C++\INVENT\API\Projeto\CadastroAPI\MinhaWebAPI\obj\Debug\netcoreapp2.1\MinhaWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Anadinho\Documents\C++\INVENT\API\Projeto\CadastroAPI\MinhaWebAPI\obj\Debug\netcoreapp2.1\MinhaWebAPI.RazorAssemblyInfo.cache
+C:\Users\Anadinho\Documents\C++\INVENT\API\Projeto\CadastroAPI\MinhaWebAPI\obj\Debug\netcoreapp2.1\MinhaWebAPI.RazorAssemblyInfo.cs
+C:\Users\Anadinho\Documents\C++\INVENT\API\Projeto\CadastroAPI\MinhaWebAPI\obj\Debug\netcoreapp2.1\MinhaWebAPI.AssemblyInfoInputs.cache
+C:\Users\Anadinho\Documents\C++\INVENT\API\Projeto\CadastroAPI\MinhaWebAPI\obj\Debug\netcoreapp2.1\MinhaWebAPI.AssemblyInfo.cs
+C:\Users\Anadinho\Documents\C++\INVENT\API\Projeto\CadastroAPI\MinhaWebAPI\obj\Debug\netcoreapp2.1\MinhaWebAPI.RazorTargetAssemblyInfo.cache
